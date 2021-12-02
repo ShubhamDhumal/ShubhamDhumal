@@ -19,7 +19,7 @@
 </p>
 
 <p align='center'>
-  💻 My workspace<br/><br/>
+  <h3>💻 My workspace<br/><br/></h3>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
@@ -32,7 +32,7 @@
 
 
 <p align='center'>
-  🚀Languages and Tools<br/><br/>
+  <h3>🚀Languages and Tools<br/><br/></h3>
   <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=white" />
