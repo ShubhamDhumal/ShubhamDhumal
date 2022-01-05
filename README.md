@@ -18,12 +18,12 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-</p>
+</p> -->
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:shubhamdhml03@gmail.com'>shubhamdhml03@gmail.com</a>
