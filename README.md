@@ -5,7 +5,7 @@
 
 <p align='center'>
   A student & fresher in development from Mumbai, India.<br/>
-  🌱 I’m currently pursuing a BSc in Information Technology.<br/>
+  🌱 Just completed my BSc in Information Technology.<br/>
 </p>
 
 <p align='center'>
